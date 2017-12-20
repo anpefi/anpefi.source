@@ -14,68 +14,6 @@ weight = 70
 autolink = true
 
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:andres.perez.figueroa@uvigo.es"
-    
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:anpefi@uvigo.es" 
-    
-  [[params.social]]
-    icon = "telegram"
-    icon_pack = "fa"
-    link = "//t.me/anpefi"  
-    
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/anpefi"
-    
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0002-7722-3697"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "//scholar.google.co.uk/citations?user=vNSBkroAAAAJ"
-
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "//researchgate.net/profile/Andres_Perez-Figueroa"
-    
-   [[params.social]]
-    icon = "mendeley"
-    icon_pack = "ai"
-    link = "//mendeley.com/profiles/andres-perez-figueroa"
-    
-  [[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "//publons.com/a/454052"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/anpefi"
-    
-  [[params.social]]
-    icon = "gitlab"
-    icon_pack = "fa"
-    link = "//gitlab.com/anpefi"
-    
-  [[params.social]]
-    icon = "bitbucket"
-    icon_pack = "fa"
-    link = "//bitbucket.com/anpefi"
-
-
-
 +++
 
 Do you need to contact me about... 

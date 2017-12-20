@@ -48,12 +48,12 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "andres.perez.figueroa@gmail.com"
+  email = ""
   address = "Phylogenomics Lab. Edificio Torre CACTI. Campus Universitario. Universidad de Vigo. 36310 Vigo, Spain"
   office_hours = ""
   phone = ""
   skype = ""
-  telegram = "anpefi"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
