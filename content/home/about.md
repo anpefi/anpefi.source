@@ -37,7 +37,6 @@ weight = 5
  
 +++
 
-I'm a computational biologist working as a posdoctoral researcher in the [Phylogenomics Lab](http://darwin.uvigo.es) at [University of Vigo](http://uvigo.es).
+Hi! I'm Andrés Pérez-Figueroa, a postdoctoral researcher in the [Evolutionary and Biomedical Genomics Lab](http://darwin.uvigo.es) at the [University of Vigo](http://www.uvigo.es). My current research here is about population genetics of tumoral cells. My background  is related to conservation and population genetics as a computational biologist. I can write code (not very well) to simulate and analyze biological data for understanding its evolutionary implications.
 
-My research has been focused on the evolutionary **quantitative genetics** by using **simulations**. Another interesting topic for me has been the application of **population genetics** in the context of **conservation** of genetic resources as the study of conservation strategies for maintaining **genetic diversity** in captive populations. I have also developed **software** to implement these strategies to real conservation units.  In recent years, I got involved in  the study of **epigenetic differentiation** of methylation throughout the genome in fish populations. I was also involved in the **bioinformatic analysis** of diferent -OMICS experiments. Recently, I started to work on the **population genetics of cancer**.
 
