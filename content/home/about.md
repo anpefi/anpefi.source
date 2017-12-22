@@ -37,5 +37,7 @@ weight = 5
  
 +++
 
-I'm a computational biologist 
+I'm a computational biologist working as a posdoctoral researcher in the [Phylogenomics Lab](http://darwin.uvigo.es) at [University of Vigo](http://uvigo.es).
+
+My research has been focused on the evolutionary **quantitative genetics** by using **simulations**. Another interesting topic for me has been the application of **population genetics** in the context of **conservation** of genetic resources as the study of conservation strategies for maintaining **genetic diversity** in captive populations. I have also developed **software** to implement these strategies to real conservation units.  In recent years, I got involved in  the study of **epigenetic differentiation** of methylation throughout the genome in fish populations. I was also involved in the **bioinformatic analysis** of diferent -OMICS experiments. Recently, I started to work on the **population genetics of cancer**.
 

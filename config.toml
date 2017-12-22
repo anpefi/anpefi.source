@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Pérez-Figueroa, Andrés"
+  name = "anpefi"
   role = "Posdoctoral researcher"
 
   # Organizations/Affiliations.
@@ -282,7 +282,7 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
   weight = 2
 
