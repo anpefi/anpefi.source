@@ -35,5 +35,5 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+[<i class="ai ai-google-scholar big-icon"></i>](//scholar.google.co.uk/citations?user=vNSBkroAAAAJ)    [<i class="ai ai-orcid big-icon"></i>](//orcid.org/0000-0002-7722-3697)   [<i class="ai ai-researchgate big-icon"></i>](//researchgate.net/profile/Andres_Perez-Figueroa) 
 
-For a full and updated record of publications, including download of full-text of *some* items, please visit my [Google Scholar](http://scholar.google.com/citations?user=vNSBkroAAAAJ) and/or [ResearchGate](https://www.researchgate.net/profile/Andres_Perez-Figueroa) profiles

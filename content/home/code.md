@@ -14,10 +14,8 @@ subtitle = "Software and scripts that I have developed"
 weight = 30
 
 +++
-
 - [<i class="fa fa-github big-icon"></i> **msap**](https://github.com/anpefi/msap): An R package for analyse epigenetic and genetic diversity and differentiation in MSAP assays.
 
 - [<i class="fa fa-github big-icon"></i> **METAPOP2**](https://github.com/anpefi/metapop2): A new development of Metapop, A software for the management and analysis of subdivided populations in conservation programs.
 
-
-Check my repositories at [<i class="fa fa-github big-icon"></i>](https://github.com/anpefi/), [<i class="fa fa-gitlab big-icon"></i>](https://gitlab.com/anpefi) or [<i class="fa fa-bitbucket big-icon"></i>](https://bitbucket.com/anpefi/) for further code
+Explore my git repositories:   [<i class="fa fa-github big-icon"></i>](https://github.com/anpefi/)    [<i class="fa fa-gitlab big-icon"></i>](https://gitlab.com/anpefi)   [<i class="fa fa-bitbucket big-icon"></i>](https://bitbucket.com/anpefi/) 
