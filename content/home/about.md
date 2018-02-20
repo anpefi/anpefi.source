@@ -37,6 +37,6 @@ weight = 5
  
 +++
 
-Hi! I'm Andrés Pérez-Figueroa, a postdoctoral researcher in the [Evolutionary and Biomedical Genomics Lab](http://darwin.uvigo.es) at the [University of Vigo](http://www.uvigo.es). My current research here is about population genetics of tumoral cells. My background  is related to conservation and population genetics as a computational biologist. I can write code (not very well) to simulate and analyze biological data for understanding its evolutionary implications.
+Hi! I'm Andrés Pérez-Figueroa, a postdoctoral researcher in the [Phylogenomics Lab](http://darwin.uvigo.es) at the [University of Vigo](http://www.uvigo.es). My current research here is about population genetics of tumoral cells. My background  is related to conservation and population genetics as a computational biologist. I can write code (not very well) to simulate and analyze biological data for understanding its evolutionary implications.
 
 
