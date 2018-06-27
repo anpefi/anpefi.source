@@ -218,6 +218,11 @@ defaultContentLanguageInSubdir = false
     link = "//t.me/anpefi"  
     
   [[params.social]]
+    icon = "skype"
+    icon_pack = "fa"
+    link = "https://join.skype.com/invite/nromqYsIC9N1"   
+    
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/anpefi"
@@ -256,11 +261,13 @@ defaultContentLanguageInSubdir = false
     icon = "gitlab"
     icon_pack = "fa"
     link = "//gitlab.com/anpefi"
-    
+
   [[params.social]]
     icon = "bitbucket"
     icon_pack = "fa"
     link = "//bitbucket.com/anpefi"
+    
+
 
 
 # Navigation Links
