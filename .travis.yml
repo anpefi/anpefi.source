@@ -1,5 +1,4 @@
 language: r
-dist: trusty
 sudo: false
 
 branches:
@@ -20,6 +19,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
+  keep-history: true
   github_token: $GITHUB_TOKEN
   on:
     branch: master
