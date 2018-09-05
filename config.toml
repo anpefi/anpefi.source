@@ -267,6 +267,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fab"
     link = "//bitbucket.com/anpefi"
     
+  [[params.social]]
+    icon = "docker"
+    icon_pack = "fab"
+    link = "//hub.docker.com/u/anpefi/"
 
 
 
