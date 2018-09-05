@@ -14,8 +14,8 @@ subtitle = "Software and scripts that I have developed"
 weight = 30
 
 +++
-- [<i class="fa fa-github big-icon"></i> **msap**](https://github.com/anpefi/msap): An R package for analyse epigenetic and genetic diversity and differentiation in MSAP assays.
+- [<i class="fab fa-github big-icon"></i> **msap**](https://github.com/anpefi/msap): An R package for analyse epigenetic and genetic diversity and differentiation in MSAP assays.
 
-- [<i class="fa fa-gitlab big-icon"></i> **METAPOP2**](https://gitlab.com/elcortegano/metapop2): A new development of Metapop, A software for the management and analysis of subdivided populations in conservation programs. Currently being developed by Eugenio LÓpez-Cortegano.
+- [<i class="fab fa-gitlab big-icon"></i> **METAPOP2**](https://gitlab.com/elcortegano/metapop2): A new development of Metapop, A software for the management and analysis of subdivided populations in conservation programs. Currently being developed by Eugenio LÓpez-Cortegano.
 
-Explore my git repositories:   [<i class="fa fa-github big-icon"></i>](https://github.com/anpefi/)    [<i class="fa fa-gitlab big-icon"></i>](https://gitlab.com/anpefi)   [<i class="fa fa-bitbucket big-icon"></i>](https://bitbucket.com/anpefi/) 
+Explore my git repositories:   [<i class="fab fa-github big-icon"></i>](https://github.com/anpefi/)    [<i class="fab fa-gitlab big-icon"></i>](https://gitlab.com/anpefi)   [<i class="fab fa-bitbucket big-icon"></i>](https://bitbucket.com/anpefi/) 

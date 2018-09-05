@@ -209,22 +209,22 @@ defaultContentLanguageInSubdir = false
     
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "mailto:anpefi@uvigo.es" 
     
   [[params.social]]
     icon = "telegram"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//t.me/anpefi"  
     
   [[params.social]]
     icon = "skype"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://join.skype.com/invite/nromqYsIC9N1"   
     
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/anpefi"
     
   [[params.social]]
@@ -254,17 +254,17 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/anpefi"
     
   [[params.social]]
     icon = "gitlab"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//gitlab.com/anpefi"
 
   [[params.social]]
     icon = "bitbucket"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//bitbucket.com/anpefi"
     
 

@@ -14,6 +14,6 @@ subtitle = "Feeds for social media"
 weight = 50
 
 +++
- [<i class="fa fa-twitter big-icon"></i>](https://twitter.com/anpefi/)
+ [<i class="fab fa-twitter big-icon"></i>](https://twitter.com/anpefi/)
  
 <a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" href="https://twitter.com/anpefi?ref_src=twsrc%5Etfw">My tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
