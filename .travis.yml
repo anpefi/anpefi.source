@@ -1,14 +1,16 @@
 language: r
 sudo: false
+dist: trusty 
+cache: 
+    packages: yes
+    directories: 
+       - $HOME/bin
 
 branches:
   only:
     - master
 
 cache:
-  packages: yes
-  directories:
-    - $HOME/bin
 
 before_script:
   - Rscript -e 'blogdown::install_hugo()'
