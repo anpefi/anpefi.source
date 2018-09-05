@@ -287,10 +287,6 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
   
-[[menu.main]]
-  name = "Search"
-  url = "#search"
-  weight = 7
 
 [[menu.main]]
   name = "Publications"
