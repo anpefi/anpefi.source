@@ -12,7 +12,7 @@ subtitle = "Most recent publications"
 weight = 20
 
 # Number of publications to list.
-count = 3
+count = 4
 
 # List format.
 #   0 = Simple
