@@ -22,13 +22,11 @@ autolink = true
 * an important and urgent request? *Please use Telegram ([<i class="fab fa-telegram"></i> anpefi](https://t.me/anpefi)) or Skype me ([<i class="fab fa-skype"></i> andres.perez.figueroa](https://join.skype.com/invite/nromqYsIC9N1)).*
  
 * send any present (*I love stickers! please send me free stickers!*) to me? Please send it to my postal address:
-        <i class="fas fa-home"></i> Phylogenomics Lab. Edificio Torre CACTI.   
-        Campus Universitario. Universidad de Vigo.   
-        36310 Vigo, Spain  
+        <i class="fas fa-home"></i> CIIMAR. Terminal de Cruzeiros de Leixões. Av. General Norton de Matos s/n.
+4450-208 Matosinhos.Portugal
  
 * any other question?  
-[<i class="fas fa-envelope"></i> andres.perez.figueroa@gmail.com](mailto:andres.perez.figueroa@gmail.com) (*preferred*)   
-        [<i class="fas fa-envelope"></i> anpefi@uvigo.es](mailto:anpefi@uvigo.es)  
+[<i class="fas fa-envelope"></i> andres.perez.figueroa@gmail.com](mailto:andres.perez.figueroa@gmail.com) 
 
 
 

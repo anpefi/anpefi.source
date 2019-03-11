@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Phylogenomics Lab", url = "http://darwin.uvigo.es" },{ name = "University of Vigo", url = "http://www.uvigo.es" } ]
+  organizations = [ { name = "Interdisciplinary Centre of Marine and Environmental Research (CIIMAR)", url = "https://ciimar.up.pt" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -81,7 +81,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 2
+  map = 0
   map_api_key = ""
   latitude = "42.1676539"
   longitude = "-8.6831827"
@@ -207,10 +207,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:andres.perez.figueroa@uvigo.es"
     
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:anpefi@uvigo.es" 
+ # [[params.social]]
+ #   icon = "envelope"
+ #   icon_pack = "fas"
+ #  link = "mailto:anpefi@uvigo.es" 
     
   [[params.social]]
     icon = "telegram"
