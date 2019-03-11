@@ -272,6 +272,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fab"
     link = "//hub.docker.com/u/anpefi/"
 
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "//dropbox.com/s/5t49ca6z2gadziz/CV.APF.web.en.pdf?dl=0"
+
 
 
 # Navigation Links
