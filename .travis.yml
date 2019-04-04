@@ -1,21 +1,19 @@
 language: r
 sudo: false
-dist: trusty 
-cache: 
-    packages: yes
-    directories: 
-       - $HOME/bin
+dist: xenial
+latex: false
 
 branches:
   only:
     - master
 
 cache:
-
-before_script:
-  - Rscript -e 'blogdown::install_hugo()'
+  packages: yes
+  directories:
+    - $HOME/bin
 
 script:
+  - Rscript -e 'blogdown::install_hugo()'
   - Rscript -e 'blogdown::build_site()'
 
 deploy:
