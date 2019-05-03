@@ -9,9 +9,7 @@ branches:
 
 cache:
   - ccache
-  packages: true
-  directories:
-    - $HOME/bin
+  - packages
 
 addons:
   apt:
