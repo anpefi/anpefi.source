@@ -7,7 +7,7 @@ active = false
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = "Probably my most relevant publications"
+subtitle = "Most relevant publications"
 
 # Order that this section will appear in.
 weight = 17
