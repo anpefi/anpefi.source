@@ -1,5 +1,5 @@
 +++
-title = "LACK OF NONADDITIVE GENETIC EFFECTS ON EARLY FECUNDITY IN DROSOPHILA MELANOGASTER"
+title = "Lack of nonadditive genetic effects on early fecundity in *Drosophila melanogaster*"
 date = "2003-05-09"
 doi = "10.1111/j.0014-3820.2003.tb01547.x"
 

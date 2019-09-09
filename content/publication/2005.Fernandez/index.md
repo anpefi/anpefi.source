@@ -1,5 +1,5 @@
 +++
-title = "Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail Littorina saxatilis"
+title = "Genetic Differentiation and Estimation of Effective Population Size and Migration Rates in Two Sympatric Ecotypes of the Marine Snail *Littorina saxatilis*"
 date = "2005-04-20"
 doi = "10.1093/jhered/esi064"
 

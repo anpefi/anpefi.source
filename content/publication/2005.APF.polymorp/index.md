@@ -1,5 +1,5 @@
 +++
-title = "The evolutionary forces maintaining a wild polymorphism of Littorina saxatilis: model selection by computer simulations"
+title = "The evolutionary forces maintaining a wild polymorphism of *Littorina saxatilis*: model selection by computer simulations"
 date = "2005-04-04"
 doi = "10.1111/j.1420-9101.2004.00773.x"
 

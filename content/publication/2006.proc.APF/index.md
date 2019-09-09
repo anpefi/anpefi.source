@@ -1,5 +1,5 @@
 +++
-title = "Changes in genetic parameters for fitness-related traits in a captive population of Drosophila melanogaster"
+title = "Changes in genetic parameters for fitness-related traits in a captive population of *Drosophila melanogaster*"
 date = "2006-08-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

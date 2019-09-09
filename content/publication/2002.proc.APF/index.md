@@ -1,5 +1,5 @@
 +++
-title = "Inferences on the nature of genetic variation for viability from artificial selection and inbreeding in Drosophila."
+title = "Inferences on the nature of genetic variation for viability from artificial selection and inbreeding in *Drosophila*."
 date = "2002-08-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,5 +1,5 @@
 +++
-title = "Mutation‐selection balance accounting for genetic variation for viability in Drosophila melanogaster as deduced from an inbreeding and artificial selection experiment"
+title = "Mutation‐selection balance accounting for genetic variation for viability in *Drosophila melanogaster* as deduced from an inbreeding and artificial selection experiment"
 date = "2004-02-17"
 doi = "10.1111/j.1420-9101.2004.00707.x"
 
