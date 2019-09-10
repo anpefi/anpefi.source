@@ -1,5 +1,5 @@
 +++
-title = "Environmental induced methylation changes associated with seawater adaptation in brown trout Author links open overlay panel"
+title = "Environmental induced methylation changes associated with seawater adaptation in brown trout."
 date = "2013-05-10"
 doi = "10.1016/j.aquaculture.2013.02.006"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
