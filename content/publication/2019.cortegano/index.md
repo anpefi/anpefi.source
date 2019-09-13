@@ -1,7 +1,7 @@
 +++
 title = "Optimal management of genetic diversity in subdivided populations"
 date = "2019-08-13"
-doi = "10.3389/fgene.2019.0084"
+doi = "10.3389/fgene.2019.00843"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["López-Cortegano, E.","Pouso, R.","Labrador, A.","**Pérez-Figueroa, A.**","Fernández, J.","Caballero, A."]
@@ -36,7 +36,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.frontiersin.org/articles/10.3389/fgene.2019.00843/pdf"
 url_preprint = ""
 url_code = "https://gitlab.com/elcortegano/hadopt"
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.frontiersin.org/articles/10.3389/fgene.2019.00843"
+url_source = ""
 
 
 # Does the content use math formatting?
